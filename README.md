@@ -1,7 +1,7 @@
 
-  # mini,chat
+  # Dischat
 
-  This is a code bundle for mini,chat. The original project is available at https://www.figma.com/design/ovshBS24ORcX2751kvZ81r/mini-chat.
+  This is a code bundle for Dischat. The original project is available at https://www.figma.com/design/ovshBS24ORcX2751kvZ81r/mini-chat.
 
   ## Running the code
 
